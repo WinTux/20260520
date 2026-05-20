@@ -1,1 +1,2 @@
-print("Hola desde VSCode")
+print("Hola desde VisualStudioCode")
+print("Bienvenido a Python")
